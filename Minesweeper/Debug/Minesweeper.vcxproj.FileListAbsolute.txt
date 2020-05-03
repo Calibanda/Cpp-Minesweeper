@@ -1,0 +1,2 @@
+C:\Users\cleme\Desktop\esaip\IR3\SeAMK\Cpp\Minesweeper\Debug\Minesweeper.exe
+C:\Users\cleme\Desktop\esaip\IR3\SeAMK\Cpp\Minesweeper\Debug\Minesweeper.pdb
